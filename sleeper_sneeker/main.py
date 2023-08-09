@@ -107,8 +107,8 @@ def cli(user_lst, year, league, verbose):
 
 
 if __name__ == "__main__":
+    cli()
     logger.info("------------------------------------------")
     logger.info("               SLEEPER SNEAKER            ")
     logger.info("------------------------------------------")
-    cli()
     logger.info("Done!")
