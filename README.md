@@ -8,6 +8,8 @@ Sleeper API docs: https://docs.sleeper.com/
 
 ## Getting Started
 
+_Nothing as of yet..._
+
 ## Usage
 
 Help info
@@ -23,13 +25,13 @@ Options:
   --help              Show this message and exit.
 ```
 
-Query by league id
+_Query by league id_
 
 ```bash
 python3 sleeper_sneaker/main.py --league <league_id>
 ```
 
-Query by username or user_id
+_Query by username or user_id_
 
 ```bash
 python3 sleeper_sneaker/main.py --user <username>
